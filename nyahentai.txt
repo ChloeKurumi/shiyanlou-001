@@ -41,7 +41,7 @@
             "selector": "div#info h2"
         }
     },
-    "galleryUrl": "https://nhentai.net/{idCode:}",
+    "galleryUrl": "https://zh.nyahentai.pro/{idCode:}",
     "gid": 0,
     "index": 0,
     "indexRule": {
@@ -64,7 +64,7 @@
             "selector": "a div.caption"
         }
     },
-    "indexUrl": "https://zh.nyahentai.pro/?page={page:1}",
+    "indexUrl": "https://zh.nyahentai.pro/page={page:1}",
     "isGrid": false,
     "loginUrl": "https://zh.nyahentai.pro/login/",
     "searchUrl": "https://zh.nyahentai.pro/?q={keyword:}&page={page:1}",
