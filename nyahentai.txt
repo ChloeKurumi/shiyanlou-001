@@ -64,10 +64,10 @@
             "selector": "a div.caption"
         }
     },
-    "indexUrl": "https://zh.nyahentai.pro/page={page:1}",
+    "indexUrl": "https://zh.nyahentai.pro/language/chinese/page/{page:1}",
     "isGrid": false,
     "loginUrl": "https://zh.nyahentai.pro/login/",
-    "searchUrl": "https://zh.nyahentai.pro/?q={keyword:}&page={page:1}",
+    "searchUrl": "https://zh.nyahentai.pro/search/q_{keyword:}/page/{page:1}",
     "sid": 5,
     "title": "nyahentai",
     "versionCode": 0
